@@ -119,9 +119,3 @@ mvn test -Denv=staging -Dtags="@regression"
 - **Data-Driven Testing** — Scenario Outlines with `Examples` tables
 - **CI/CD Integration** — Parameterized Jenkins pipeline with email alerts
 - **Environment Config** — Environment-specific property files
-
----
-
-## 👨‍💻 Resume Bullet Points
-
-> *"Designed and implemented a BDD Automation Framework for e-commerce checkout flows using Selenium 4, Cucumber 7, and Java 11, following Page Object Model and Singleton design patterns. Integrated with Jenkins declarative pipelines for nightly regression, parallel execution, and automated email reporting via ExtentReports."*
